@@ -1,0 +1,9 @@
+[tool.uv]
+dev-dependencies = [
+    "ruff>=0.6.2",
+    "numpy>=2.1.0",
+    "jupyter>=1.0.0",
+    "pillow>=10.4.0",
+]
+[tool.uv.workspace]
+members = []
