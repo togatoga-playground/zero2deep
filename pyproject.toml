@@ -4,6 +4,7 @@ dev-dependencies = [
     "numpy>=2.1.0",
     "jupyter>=1.0.0",
     "pillow>=10.4.0",
+    "matplotlib>=3.9.2",
 ]
 [tool.uv.workspace]
 members = []
